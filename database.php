@@ -1,7 +1,7 @@
 <?php
 $server = 'localhost';
 $user = 'root';
-$pass = 'D@nny1997';
+$pass = '';
 $database = 'cruds';
 
 
